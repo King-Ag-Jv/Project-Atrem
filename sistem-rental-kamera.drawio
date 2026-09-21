@@ -585,7 +585,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="zRh9b87Yzzd9Mld5nfCb" name="Revisi-2">
-    <mxGraphModel dx="1672" dy="902" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1045" dy="564" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -807,7 +807,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="jJi93J2RC4EHrEju_uUU-52" parent="1" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" value="Customer" vertex="1">
-          <mxGeometry height="210" width="180" x="200" y="350" as="geometry" />
+          <mxGeometry height="210" width="180" x="130" y="265" as="geometry" />
         </mxCell>
         <mxCell id="jJi93J2RC4EHrEju_uUU-53" parent="jJi93J2RC4EHrEju_uUU-52" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" value="" vertex="1">
           <mxGeometry height="30" width="180" y="30" as="geometry" />
@@ -1005,7 +1005,7 @@
             <mxRectangle height="30" width="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jJi93J2RC4EHrEju_uUU-99" parent="jJi93J2RC4EHrEju_uUU-97" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" value="ID_Penyewaan" vertex="1">
+        <mxCell id="jJi93J2RC4EHrEju_uUU-99" parent="jJi93J2RC4EHrEju_uUU-97" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" value="ID_Detail_Penyewaan" vertex="1">
           <mxGeometry height="30" width="180" x="30" as="geometry">
             <mxRectangle height="30" width="180" as="alternateBounds" />
           </mxGeometry>
@@ -1148,7 +1148,7 @@
             <mxPoint x="804" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jJi93J2RC4EHrEju_uUU-131" edge="1" parent="1" source="jJi93J2RC4EHrEju_uUU-1" style="edgeStyle=orthogonalEdgeStyle;fontSize=12;html=1;endArrow=ERmandOne;endFill=0;rounded=0;startArrow=ERoneToMany;startFill=0;entryX=0.504;entryY=0.995;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" target="jJi93J2RC4EHrEju_uUU-33" value="">
+        <mxCell id="jJi93J2RC4EHrEju_uUU-131" edge="1" parent="1" source="jJi93J2RC4EHrEju_uUU-1" style="edgeStyle=orthogonalEdgeStyle;fontSize=12;html=1;endArrow=ERmandOne;endFill=0;rounded=0;startArrow=ERmandOne;startFill=0;entryX=0.504;entryY=0.995;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" target="jJi93J2RC4EHrEju_uUU-33" value="">
           <mxGeometry height="100" relative="1" width="100" as="geometry">
             <mxPoint x="560" y="651" as="sourcePoint" />
             <mxPoint x="569.6399999999999" y="559.8199999999999" as="targetPoint" />
@@ -1221,7 +1221,7 @@
             <mxRectangle height="30" width="150" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jJi93J2RC4EHrEju_uUU-147" edge="1" parent="1" source="jJi93J2RC4EHrEju_uUU-20" style="edgeStyle=orthogonalEdgeStyle;fontSize=12;html=1;endArrow=ERzeroToMany;endFill=0;rounded=0;startArrow=ERmandOne;startFill=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" target="jJi93J2RC4EHrEju_uUU-144" value="">
+        <mxCell id="jJi93J2RC4EHrEju_uUU-147" edge="1" parent="1" source="jJi93J2RC4EHrEju_uUU-20" style="edgeStyle=orthogonalEdgeStyle;fontSize=12;html=1;endArrow=ERmandOne;endFill=0;rounded=0;startArrow=ERoneToMany;startFill=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" target="jJi93J2RC4EHrEju_uUU-144" value="">
           <mxGeometry height="100" relative="1" width="100" as="geometry">
             <mxPoint x="460" y="413" as="sourcePoint" />
             <mxPoint x="490" y="300" as="targetPoint" />
